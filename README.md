@@ -32,20 +32,20 @@ El objetivo es **concienciar y enseñar** cómo los atacantes pueden clonar pág
  
  ✅ SET levanta su propio servidor y (si hay fomulario) puede CAPTURAR INTERACCIONES para mostrar cómo funciona un ataque real de phishing.
  
-<img src="/captures/0-set.png">
+<img src="SET/captures/0-set.png">
 
-<img src="1-set.png">
+<img src="SET/captures/1-set.png">
 
-<img src="2-set.png">
+<img src="SET/captures/2-set.png">
 
-<img src="3-set.png">
+<img src="SET/captures/3-set.png">
 
-<img src="4-set.png">
+<img src="SET/captures/4-set.png">
 
-<img src="5-set.png">
+<img src="SET/captures/5-set.png">
 
-<img src="6-set.png">
+<img src="SET/captures/6-set.png">
 
-<img src="7-set.png">
+<img src="SET/captures/7-set.png">
 
-<img src="webclonada.png">
+<img src="SET/captures/8-set.png">
