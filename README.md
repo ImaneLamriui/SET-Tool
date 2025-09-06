@@ -25,7 +25,7 @@
  
  ✅ SET levanta su propio servidor y (si hay fomulario) puede CAPTURAR INTERACCIONES para mostrar cómo funciona un ataque real de phishing.
  
-<img src="0-set.png">
+<img src="/captures/0-set.png">
 
 <img src="1-set.png">
 
