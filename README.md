@@ -10,7 +10,7 @@ El objetivo es **concienciar y enseñar** cómo los atacantes pueden clonar pág
 
  1️⃣ Diseñar un archivo HTML de prueba (guia.html) con contenido educativo.
 
- https://github.com/ImaneLamriui/SET-Tool/guia.html
+https://github.com/ImaneLamriui/SET-Tool/blob/main/guia.html
 
 
  2️⃣ Ejecutar SET → Social-Engineering Attacks → Website Attack Vectors → Credential Harvester → Site Cloner.
